@@ -1,0 +1,223 @@
+\begin{thebibliography}{34}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Williamson and Roshko(1988)]{williamson1988}
+C~H~K Williamson and A~Roshko.
+\newblock Vortex formation in the wake of an oscillating cylinder.
+\newblock \emph{J. Fluids Struct.}, 2:\penalty0 355--381, 1988.
+
+\bibitem[Zielinska et~al.(1997)Zielinska, Goujon-Durand, Dusek, and
+  Wesfreid]{Zielinska:1997p415}
+BJA Zielinska, S~Goujon-Durand, J~Dusek, and JE~Wesfreid.
+\newblock Strongly nonlinear effect in unstable wakes.
+\newblock \emph{Physical Review Letters}, 79\penalty0 (20):\penalty0
+  3893--3896, 1997.
+
+\bibitem[Hussain(1986)]{hussain1986}
+F~Hussain.
+\newblock Coherent structures and turbulence.
+\newblock \emph{Journal of Fluid Mechanics}, 173:\penalty0 303--356, 1986.
+
+\bibitem[Zielinska and Wesfreid(1995)]{zielinska}
+B.~J. Zielinska and J.E. Wesfreid.
+\newblock On the spatial structure of global modes in wake flow.
+\newblock \emph{Physics of Fluids}, 7\penalty0 (6):\penalty0 1418--1424, 1995.
+
+\bibitem[Barkley(2006)]{barkley2006}
+D.~Barkley.
+\newblock Linear analysis of the cylinder wake mean flow.
+\newblock \emph{Europhys. Lett.}, 75\penalty0 (5):\penalty0 750--756, 2006.
+
+\bibitem[Stuart(1958)]{stuart58}
+J.T. Stuart.
+\newblock On the non-linear mechanics of hydrodynamic stability.
+\newblock \emph{Journal of Fluid Mechanics}, 4:\penalty0 1--21, 1958.
+
+\bibitem[Provansal et~al.(1987)Provansal, Mathis, and Boyer]{provansal1987}
+M~Provansal, C~Mathis, and L~Boyer.
+\newblock {B{\'e}nard-von K{\'a}rm{\'a}n instability: transient and forced
+  regimes}.
+\newblock \emph{Journal of Fluid Mechanics.}, 182\penalty0 (-1):\penalty0
+  1--22, 1987.
+
+\bibitem[Noack et~al.(2003)Noack, Afanasiev, Morzynski, Tadmor, and
+  Thiele]{noack2003a}
+B~R Noack, K~Afanasiev, M~Morzynski, G~Tadmor, and F~Thiele.
+\newblock A hierarchy of low-dimensional models for the transient and
+  post-transient cylinder wake.
+\newblock \emph{Journal of Fluid Mechanics}, 497\penalty0 (-1):\penalty0
+  335--363, 2003.
+
+\bibitem[D'Adamo et~al.(2007)D'Adamo, Papadakis, M{\'e}min, and
+  Artana]{dadamo2007}
+J~D'Adamo, N.~Papadakis, E.~M{\'e}min, and G~Artana.
+\newblock Variational assimilation of pod low-order dynamical systems.
+\newblock \emph{Journal of Turbulence}, 8\penalty0 (9):\penalty0 1--22, 2007.
+\newblock \doi{10.1080/14685240701242385}.
+\newblock URL \url{http://www.informaworld.com/smpp/content?content=10.1080/
+  14685240701242385}.
+
+\bibitem[Gallaire et~al.(2016)Gallaire, Boujo, Mantic-Lugo, Arratia, Thiria,
+  and Meliga]{gallaire2016}
+F~Gallaire, E~Boujo, V~Mantic-Lugo, C~Arratia, B~Thiria, and P~Meliga.
+\newblock Pushing amplitude equations far from threshold: application to the
+  supercritical hopf bifurcation in the cylinder wake.
+\newblock \emph{Fluid Dynamics Research}, 48\penalty0 (6):\penalty0 061401,
+  2016.
+
+\bibitem[Sipp and Lebedev(2007)]{sipp2007}
+Denis Sipp and Anton Lebedev.
+\newblock Global stability of base and mean flows: a general approach and its
+  applications to cylinder and open cavity flows.
+\newblock \emph{Journal of Fluid Mechanics}, 593:\penalty0 333--358, 2007.
+
+\bibitem[Boury et~al.(2018)Boury, Thiria, Godoy-Diana, Artana, Wesfreid, and
+  D'Adamo]{boury2018forced}
+S~Boury, B~Thiria, R~Godoy-Diana, G~Artana, JE~Wesfreid, and J~D'Adamo.
+\newblock Forced wakes far from threshold: Stuart-landau equation applied to
+  experimental data.
+\newblock \emph{Physical Review Fluids}, 3\penalty0 (9):\penalty0 091901, 2018.
+
+\bibitem[Thiria and Wesfreid(2007)]{thiria2007}
+B~Thiria and J~E Wesfreid.
+\newblock Stability properties of forced wakes.
+\newblock \emph{Journal of Fluid Mechanics.}, 579:\penalty0 137--161, 2007.
+
+\bibitem[D'Adamo et~al.(2012)D'Adamo, Gonzalez, Gronskis, and
+  Artana]{dadamo2012}
+J~D'Adamo, L~M Gonzalez, A~Gronskis, and G~Artana.
+\newblock The scenario of two-dimensional instabilities of the cylinder wake
+  under ehd forcing: A linear stability analysis,.
+\newblock \emph{Fluid Dynamics Research}, 44:\penalty0 1--20, 2012.
+
+\bibitem[D'Adamo et~al.(2017)D'Adamo, Leonardo, Castro~Hebrero, Sosa, Duriez,
+  and Artana]{dadamo2017a}
+J~D'Adamo, L~Leonardo, F~Castro~Hebrero, R~Sosa, T.~Duriez, and Artana.
+\newblock Circular cylinder drag reduction by three-electrode plasma symmetric
+  forcing.
+\newblock \emph{ASME J. Fluids Eng.}, 2017.
+
+\bibitem[D'Adamo et~al.(2011)D'Adamo, Godoy-Diana, and Wesfreid]{dadamo2011b}
+J~D'Adamo, R~Godoy-Diana, and J~E Wesfreid.
+\newblock Spatio-temporal spectral analysis of a forced cylinder wake.
+\newblock \emph{Physical Review E}, 84(5):\penalty0 1--8, 2011.
+
+\bibitem[D'Adamo et~al.(2015)D'Adamo, Godoy-Diana, and Wesfreid]{dadamo2015a}
+J~D'Adamo, R~Godoy-Diana, and J~E Wesfreid.
+\newblock Centrifugal instabilities in crossflow: the case of a forced cylinder
+  wake.
+\newblock \emph{Proceedings of the Royal Society A: Mathematical, physical, and
+  engineering sciences}, 471:\penalty0 1--17, 2015.
+
+\bibitem[Herrmann et~al.(2020)Herrmann, Oswald, Semaan, and
+  Brunton]{herrmann2020modeling}
+Benjam{\'\i}n Herrmann, Philipp Oswald, Richard Semaan, and Steven~L Brunton.
+\newblock Modeling synchronization in forced turbulent oscillator flows.
+\newblock \emph{Communications Physics}, 3\penalty0 (1):\penalty0 1--9, 2020.
+
+\bibitem[Pa{\"\i}doussis et~al.(2010)Pa{\"\i}doussis, Price, and
+  De~Langre]{paidoussis2010fluid}
+M~P Pa{\"\i}doussis, S~J Price, and E~De~Langre.
+\newblock \emph{Fluid-structure interactions: cross-flow-induced
+  instabilities}.
+\newblock Cambridge University Press, 2010.
+
+\bibitem[De~Langre(2001)]{delangre2001fluides}
+Emmanuel De~Langre.
+\newblock \emph{Fluides et solides}.
+\newblock Editions Ecole Polytechnique, 2001.
+
+\bibitem[Dickson and Dickinson(2004)]{Dickson:2004p232}
+WB~Dickson and MH~Dickinson.
+\newblock The effect of advance ratio on the aerodynamics of revolving wings.
+\newblock \emph{Journal of Experimental Biology}, 207\penalty0 (24):\penalty0
+  4269--4281, 2004.
+
+\bibitem[Harrison and Roberts(2000)]{harrison2000}
+Jon~F. Harrison and Stephen~P. Roberts.
+\newblock Flight respiration and energetics.
+\newblock \emph{Annual Review of Physiology}, 62\penalty0 (1):\penalty0
+  179--205, 2000.
+
+\bibitem[Marais et~al.(2012)Marais, Thiria, Wesfreid, and
+  Godoy-Diana]{marais2012}
+C~Marais, B~Thiria, J~E Wesfreid, and R~Godoy-Diana.
+\newblock Stabilizing effect of flexibility in the wake of a flapping foil.
+\newblock \emph{Journal of Fluid Mechanics}, 710:\penalty0 659--669, 2012.
+
+\bibitem[Ramananarivo et~al.(2011)Ramananarivo, Godoy-Diana, and
+  Thiria]{ramananarivo2011a}
+S~Ramananarivo, R~Godoy-Diana, and B~Thiria.
+\newblock Rather than resonance, flapping wing flyers may play on aerodynamics
+  to improve performance.
+\newblock \emph{Proceedings of National Academy of the United States of
+  America}, 108 / 15:\penalty0 6, 2011.
+
+\bibitem[Dewey et~al.(2013)Dewey, Boschitsch, Moored, Stone, and
+  Smits]{dewey2013}
+P~A Dewey, B~M Boschitsch, K~W Moored, H~A Stone, and A~J Smits.
+\newblock Scaling laws for the thrust production of flexible pitching panels.
+\newblock \emph{Journal of Fluid Mechanics}, 732:\penalty0 29--46, 2013.
+
+\bibitem[Paraz et~al.(2016)Paraz, Schouveiler, and Eloy]{paraz2016thrust}
+F~Paraz, L~Schouveiler, and C~Eloy.
+\newblock Thrust generation by a heaving flexible foil: Resonance,
+  nonlinearities, and optimality.
+\newblock \emph{Physics of Fluids}, 28\penalty0 (1):\penalty0 011903, 2016.
+
+\bibitem[Triantafyllou et~al.(2002)Triantafyllou, Techet, Zhu, Beal, Hover, and
+  Yue]{Triantafyllou:2002p282}
+MS~Triantafyllou, AH~Techet, Q~Zhu, DN~Beal, FS~Hover, and DKP Yue.
+\newblock Vorticity control in fish-like propulsion and maneuvering.
+\newblock \emph{Integrative and Comparative Biology}, 42\penalty0 (5):\penalty0
+  1026, 2002.
+
+\bibitem[Moored et~al.(2012)Moored, Dewey, Smits, and
+  Haj-Hariri]{moored2012hydrodynamic}
+Keith~W Moored, Peter~A Dewey, AJ~Smits, and H~Haj-Hariri.
+\newblock Hydrodynamic wake resonance as an underlying principle of efficient
+  unsteady propulsion.
+\newblock \emph{Journal of Fluid Mechanics}, 708:\penalty0 329--348, 2012.
+
+\bibitem[D'Adamo et~al.(2022)D'Adamo, Collaud, Sosa, and
+  Godoy-Diana]{dadamo2022wake}
+Juan D'Adamo, Manuel Collaud, R~Sosa, and Ramiro Godoy-Diana.
+\newblock Wake and aeroelasticity of a flexible pitching foil.
+\newblock \emph{Bioinspiration \& Biomimetics}, 2022.
+
+\bibitem[Chomaz(2005)]{chomaz2005}
+J.~M. Chomaz.
+\newblock Global instabilities in spatially developing flows: non-normality and
+  nonlinearity.
+\newblock \emph{Annual Review of Fluid Mechanics}, 37:\penalty0 357--392, 2005.
+
+\bibitem[Charru(2012)]{charru2012instabilites}
+Fran{\c{c}}ois Charru.
+\newblock \emph{Instabilit{\'e}s hydrodynamiques}.
+\newblock EDP sciences, 2012.
+
+\bibitem[Gosselin et~al.(2010)Gosselin, De~Langre, and
+  Machado-Almeida]{gosselin2010drag}
+F~Gosselin, E~De~Langre, and B~A Machado-Almeida.
+\newblock Drag reduction of flexible plates by reconfiguration.
+\newblock \emph{Journal of Fluid Mechanics}, 650:\penalty0 319--341, 2010.
+
+\bibitem[Wu et~al.(2016)Wu, Wu, and Zhan]{wu2016characteristics}
+Jing Wu, Jie Wu, and Jiapu Zhan.
+\newblock Characteristics of flow over a circular cylinder with two attached
+  filaments.
+\newblock \emph{Journal of Fluids and Structures}, 66:\penalty0 269--281, 2016.
+
+\bibitem[Garc{\'\i}a-Baena et~al.(2021)Garc{\'\i}a-Baena,
+  Jim{\'e}nez-Gonz{\'a}lez, and Mart{\'\i}nez-Baz{\'a}n]{garcia2021drag}
+C~Garc{\'\i}a-Baena, JI~Jim{\'e}nez-Gonz{\'a}lez, and
+  C~Mart{\'\i}nez-Baz{\'a}n.
+\newblock Drag reduction of a blunt body through reconfiguration of rear
+  flexible plates.
+\newblock \emph{Physics of Fluids}, 33\penalty0 (4):\penalty0 045102, 2021.
+
+\end{thebibliography}
