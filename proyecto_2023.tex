@@ -78,7 +78,7 @@ En este contexto hemos contribuido y proponemos continuar lineas de investigaci�
 
 
 
- Por un lado, desde el análisis de los cambios en la estructura coherente\footnote{ De su definición (ver, por ejemplo \cite{hussain1986}), las estructuras coherentes son regiones de un escurrimiento que conservan su forma y comportamiento aún si se establecen regímenes turbulentos.} con la que se conoce a la inestabilidad de la estela: la calle de vórtices de Bénard-Von Kármán.  Se la modela como un modo global \cite{zielinska,barkley2006} que define espacial y temporalmente al escurrimiento. Se puede conseguir una descripción como modelo reducido alrededor del valor crítico $\mathrm{Re_c}$ a partir del planteo de la evolución desde la ecuación de Stuart-Landau\cite{stuart58, provansal1987} que puede derivarse de métodos más generales \cite{noack2003a,dadamo2007}.
+ Por un lado, desde el análisis de los cambios en la estructura coherente\footnote{ De su definición (ver, por ejemplo \cite{hussain1986}), las estructuras coherentes son regiones de un escurrimiento que conservan su forma y comportamiento aún si se establecen regímenes turbulentos.} con la que se conoce a la inestabilidad de la estela: la calle de vórtices de Bénard-Von Kármán (BvK).  Se la modela como un modo global \cite{zielinska,barkley2006} que define espacial y temporalmente al escurrimiento. Se puede conseguir una descripción como modelo reducido alrededor del valor crítico $\mathrm{Re_c}$ a partir del planteo de la evolución desde la ecuación de Stuart-Landau\cite{stuart58, provansal1987} que puede derivarse de métodos más generales \cite{noack2003a,dadamo2007}.
  
  
  Lejos del umbral, \citet{gallaire2016} demostraron  la pertinencia del modo global, confirmando estudios previos\cite{barkley2006,sipp2007}. En nuestro trabajo \cite{boury2018forced} extendimos el análisis a casos forzados por actuación externa, completando formalmente una propuesta de \cite{thiria2007}. Habíamos también  estudiado la acción de control mediante actuadores plasma\cite{dadamo2012} a $\mathrm{Re}\sim 200$ y en \cite{boury2018forced} conseguimos formular un modelo a través de la ecuación de Landau que las incluye. También, en \citet{dadamo2017a}, basándonos en conceptos de modelos reducidos y modos globales, aplicamos control a mayores números de Reynolds ($\sim 5000$).
@@ -89,9 +89,23 @@ En este contexto hemos contribuido y proponemos continuar lineas de investigaci�
  
  Otro concepto relevante a la hora de caracterizar flujos de estela es el de \textit{resonancia}. Aparece vinculado primeramente a la frecuencia dominante de una estela, la que corresponde al desprendimiento de vórtices $f_{vs}$ dada por el número de Strouhal $\mathrm{St}=f_{vs}D/U$. Pero aún sin desprendimiento de vórtices, existe una frecuencia que es la que corresponde a las oscilaciones globales que surgen como consecuencia de perturbaciones al flujo base, que es el campo estacionario de velocidades. 
  
- La teoría de inestabilidad hidrodinámica cuenta con numerosos antecedentes experimentales, teóricos desde el siglo XIX y principios del siglo XX, con los aportes de Kelvin, Rayleigh, Reynolds, Bénard, von Kármán y Taylor entre otros. En particular, los trabajos de Landau\cite{landau1985} sobre ondas en plasmas en la década de 1940 formalizaron la teoría que más tarde fue aplicada a mecánica de fluidos en distintos problemas canónicos\cite{gaster1965role,mattingly1972stability,huerre1985absolute,trianta1986}. Se desarrolla así el concepto de frecuencia de resonancia de un campo de velocidades, como aquella propia de una perturbación que sufre la mayor amplificación temporal o espacial. Así como existen frecuencias de perturbaciones o números de ondas asociados, éstos definen también regiones espaciales que son más receptivas a ser perturbadas. Al respecto, el trabajo experimental de \cite{strykowski1990formation} describe 
- 
-Recientemente,  \citet{herrmann2020modeling} extienden y evalúan la capacidad de modelos reducidos de responder en estas situaciones con resultados alentadores para el diseño de estrategias de control eficaces.
+ La teoría de inestabilidad hidrodinámica cuenta con numerosos antecedentes experimentales, teóricos desde el siglo XIX y principios del siglo XX, con los aportes de Kelvin, Rayleigh, Reynolds, Bénard, von Kármán y Taylor entre otros. En particular, los trabajos de Landau\cite{landau1985} sobre ondas en plasmas en la década de 1940 formalizaron la teoría que más tarde fue aplicada a mecánica de fluidos en distintos problemas canónicos\cite{gaster1965role,mattingly1972stability,huerre1985absolute,trianta1986}. Se desarrolla así el concepto de frecuencia de resonancia de un campo de velocidades, como aquella propia de una perturbación que sufre la mayor amplificación temporal o espacial. Así como existen frecuencias de perturbaciones o números de ondas asociados, éstos definen también regiones espaciales que son más receptivas a ser perturbadas. Al respecto, el trabajo experimental de \citet{strykowski1990formation} describe regiones donde el control sobre el flujo de estela es capaz de amortiguar la inestabilidad de BvK y retrasar el valor crítico de Reynolds. Más tarde, \citet{Giannetti:2007p127} confirmaron teóricamente a través de estudios de estabilidad lineal sus hipótesis. Ambas contribuciones se resumen e ilustran en la Figura \ref{fig:sensibility}.
+ \begin{figure}
+ 	\begin{subfigure}[b]{.49\textwidth}	\fbox{
+\includegraphics[width=\linewidth]{sensibility}}
+ 		\subcaption{}\label{fig:sensibility_a}
+ 	\end{subfigure}\hfill
+ 	\begin{subfigure}[b]{.49\textwidth}
+ 		\fbox{\includegraphics[width=\linewidth,trim=6cm 0 0 0,clip]{gianneti}}
+ 		\subcaption{}\label{fig:sensibility_b}
+ 	\end{subfigure}\hfill
+ 	
+ 	\caption{(a) \citet{strykowski1990formation} consiguieron experimentalmente un mapa de la sensibilidad al control (b)  Receptividad a las perturbaciones lineales a partir del trabajo teórico y numérico de \citet{Giannetti:2007p127}.}\label{fig:sensibility}
+ 	
+ \end{figure}
+
+En una reciente reseña de trabajos sobre estelas e inestabilidades, 
+  \citet{herrmann2020modeling} extienden y evalúan la capacidad de modelos reducidos de responder en estas situaciones con resultados alentadores para el diseño de estrategias de control eficaces a  mayores números de Reynolds.
  
 
  \subsection*{Interacción fluido-estructura}

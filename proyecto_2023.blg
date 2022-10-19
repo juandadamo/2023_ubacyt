@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: proyecto_2023.aux
 The style file: unsrtnat.bst
 Database file #1: /home/juan/Documents/bibtex/citas.bib
-You've used 34 entries,
+You've used 41 entries,
             2481 wiz_defined-function locations,
-            824 strings with 10550 characters,
-and the built_in function-call counts, 13176 in all, are:
-= -- 1072
-> -- 732
-< -- 12
-+ -- 282
-- -- 214
-* -- 1085
-:= -- 2156
-add.period$ -- 104
-call.type$ -- 34
-change.case$ -- 65
-chr.to.int$ -- 34
-cite$ -- 34
-duplicate$ -- 644
-empty$ -- 1202
-format.name$ -- 260
-if$ -- 2757
+            864 strings with 11459 characters,
+and the built_in function-call counts, 15782 in all, are:
+= -- 1308
+> -- 841
+< -- 17
++ -- 326
+- -- 244
+* -- 1277
+:= -- 2562
+add.period$ -- 125
+call.type$ -- 41
+change.case$ -- 78
+chr.to.int$ -- 41
+cite$ -- 41
+duplicate$ -- 777
+empty$ -- 1454
+format.name$ -- 305
+if$ -- 3314
 int.to.chr$ -- 1
-int.to.str$ -- 35
-missing$ -- 37
-newline$ -- 180
-num.names$ -- 102
-pop$ -- 255
+int.to.str$ -- 42
+missing$ -- 45
+newline$ -- 215
+num.names$ -- 123
+pop$ -- 309
 preamble$ -- 1
-purify$ -- 34
+purify$ -- 41
 quote$ -- 0
-skip$ -- 356
+skip$ -- 434
 stack$ -- 0
-substring$ -- 633
-swap$ -- 68
+substring$ -- 790
+swap$ -- 82
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 229
+type$ -- 275
 warning$ -- 0
-while$ -- 110
+while$ -- 135
 width$ -- 0
-write$ -- 448
+write$ -- 538
